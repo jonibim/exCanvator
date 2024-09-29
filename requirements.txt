@@ -1,2 +1,4 @@
 urlib
 beautifulsoup4
+python-dotenv
+pydantic
