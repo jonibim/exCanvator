@@ -1,4 +1,4 @@
-# exCanvaTor 
+# exCanvator 
 
 > ⚠️ Project is still undergoing development
 
