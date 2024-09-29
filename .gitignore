@@ -1,3 +1,5 @@
-ignored_links.txt
-error_log.txt
+__pycache__/
+logs/
 courses/
+.env
+main.log
